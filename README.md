@@ -1,6 +1,6 @@
 # Absences / Tardies Dashboard
 
-This project was created during my time working at a vocational school. The goal was to create a concise dashboard to monitor the absence/tardy behavior of the entire student body, with details on whose class was being cut, and when they were being cut. 
+This project was created during my time working at a vocational school. The goal was to create a concise dashboard to be used by upper management in order to monitor the absence/tardy behavior of the entire student body, with details on whose class was being cut, and when they were being cut. 
 
 All data has been anonymized, and any sensitive data has been removed and unused. Data cleaning and all three dashboards were done entirely in Excel. The date range for this project is the entirety of March 2024.
 
