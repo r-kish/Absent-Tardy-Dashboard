@@ -8,19 +8,19 @@ You may view the full Excel file with interactive dashboards [here](https://gith
 
 [Note: UA indicates that the student was absent all day, where Non-UA indicates the student was present for some of the day.]
 
-Dashboard 1: Non-UA Absences/Tardies and UA Absences/Tardies
+- Dashboard 1: Non-UA Absences/Tardies and UA Absences/Tardies
 
 This dashboard gives a general overview of which classes were being cut.
 ![Dashboard 1](https://github.com/r-kish/Absent-Tardy-Dashboard/blob/main/Dashboard1.png)
 
 
-Dashboard 2: Daily Absences/Tardies Dashboard
+- Dashboard 2: Daily Absences/Tardies Dashboard
 
 This dashboard provides more information regarding absences and tardies on specific days.
 ![Dashboard 2](https://github.com/r-kish/Absent-Tardy-Dashboard/blob/main/Dashboard2.png)
 
 
-Dashboard 3: Daily Absences/Tardies by Period Dashboard
+- Dashboard 3: Daily Absences/Tardies by Period Dashboard
 
 This dashboard provides even further information regarding absences and tardies during certain periods of the day.
 ![Dashboard 3](https://github.com/r-kish/Absent-Tardy-Dashboard/blob/main/Dashboard3.png)
